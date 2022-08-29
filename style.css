@@ -1,0 +1,20 @@
+/*
+Commentaire en CSS
+em{
+    color: #f8631f;
+}
+#Je\ vous\ présente\ la\ Côte\ d\'ivoire, #Pays\ d\'hospitalité{
+    font-weight: bold;
+    color: #f8631f;
+}
+*/
+
+.orange {
+    color: #f8631f;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.background
