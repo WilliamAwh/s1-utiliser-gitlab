@@ -16,5 +16,37 @@ em{
 .bold{
     font-weight: bold;
 }
+header{
+    background-color: bisque;
+    text-align: center;
+}
 
-.background
+h2, h3{
+    font-family: "Gill Sans", sans-serif;
+    color: black;
+    font-size: 55px;
+}
+body{
+    background: beige;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+
+section{
+    display: block;
+    background: lightsalmon;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: black;
+    color: beige;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
+/*
+menu
+*/
