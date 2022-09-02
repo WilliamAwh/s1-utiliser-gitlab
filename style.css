@@ -8,6 +8,10 @@ em{
     color: #f8631f;
 }
 */
+p{
+    font-size: 18px;
+}
+
 
 .orange {
     color: #f8631f;
@@ -24,7 +28,7 @@ header{
 h2, h3{
     font-family: "Gill Sans", sans-serif;
     color: black;
-    font-size: 55px;
+    font-size: 60px;
 }
 body{
     background: beige;
@@ -48,5 +52,34 @@ footer{
 }
 
 /*
-menu
+tableau
 */
+table{
+    border-collapse: collapse;
+    line-height: 1.5em;
+}
+
+thead{
+    border-bottom: medium groove #110d6d;
+    text-align: center;
+    line-height: 5em;
+}
+td,th{
+    border-width: thin;
+    border-style: groove;
+}
+tbody tr:nth-child(obb){
+    background-color: lightgray;
+}
+
+
+/*tbody*/ tr:hover{
+    background-color: darkblue;
+    color: white;
+    font-weight: bolder;
+}
+
+section p:first-of-type::first-letter{
+    font-size: 5em;
+    color: #30b20b;
+}
